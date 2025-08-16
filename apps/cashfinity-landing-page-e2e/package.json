@@ -1,0 +1,10 @@
+{
+  "name": "@tiqra/cashfinity-landing-page-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@tiqra/cashfinity-landing-page"
+    ]
+  }
+}
