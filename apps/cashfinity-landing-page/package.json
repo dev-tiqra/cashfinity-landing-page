@@ -1,5 +1,8 @@
 {
   "name": "@tiqra/cashfinity-landing-page",
   "version": "0.0.1",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0"
+  }
 }
